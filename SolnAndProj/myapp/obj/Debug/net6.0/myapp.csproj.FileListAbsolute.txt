@@ -1,0 +1,15 @@
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/bin/Debug/net6.0/myapp
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/bin/Debug/net6.0/myapp.deps.json
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/bin/Debug/net6.0/myapp.runtimeconfig.json
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/bin/Debug/net6.0/myapp.dll
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/bin/Debug/net6.0/ref/myapp.dll
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/bin/Debug/net6.0/myapp.pdb
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/obj/Debug/net6.0/myapp.csproj.AssemblyReference.cache
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/obj/Debug/net6.0/myapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/obj/Debug/net6.0/myapp.AssemblyInfoInputs.cache
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/obj/Debug/net6.0/myapp.AssemblyInfo.cs
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/obj/Debug/net6.0/myapp.csproj.CoreCompileInputs.cache
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/obj/Debug/net6.0/myapp.dll
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/obj/Debug/net6.0/ref/myapp.dll
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/obj/Debug/net6.0/myapp.pdb
+/Users/faruqe/Faruqe/DotNET Core/Test/MSTutorial/SolnAndProj/myapp/obj/Debug/net6.0/myapp.genruntimeconfig.cache
